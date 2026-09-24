@@ -34,88 +34,55 @@ The following code snippets are designed as **interactive examples** to be used 
 ### W3 - Workshop 1 - 23 September 2026 - WATER
 
 ** A (very) quick intro to Remote Sensing **
-- **SATELLITES** – Understanding how satellite images are composed of discrete units of information.  
+- **SATELLITES** – Understanding how satellite images are composed of discrete units of information.
+. [EE_GSAPP_Satellite](https://code.earthengine.google.co.in/9c4ceffd1f4d8af839f9ffa060b2a9ea?hideCode=true)
 - **TIME MACHINE** – Exploring how satellites capture imagery at different time intervals and resolutions.
+. [EE_GSAPP_Time Machine](https://code.earthengine.google.co.in/446facbc6f11567f6b9ae001a6bd93c5?hideCode=true)
 - **SPECTRUM** – Exploring how satellites capture imagery at different time intervals and resolutions.
+. [EE_GSAPP_Spectrum]
+  (https://code.earthengine.google.co.in/d5e4b8c9a7143a895805d58d9e922529?hideCode=true)
 - **WEATHER** –
-
-<img width="1573" height="1047" alt="Screenshot 2025-10-22 at 9 07 37 PM" src="https://github.com/user-attachments/assets/04986569-fc38-4621-a18f-10b83041fbac" />
-
-
-. [00RCA_Satellite](https://code.earthengine.google.com/05e54fa76944c926339cee4f09cfe588)
-. [00RCA_Satellite Video](https://code.earthengine.google.com/4b3481d389ac9a33d0782331c8ec728b)
-. [00RCA_Satellite Geotiff](https://code.earthengine.google.com/7963f6355091857e9bf93a5d19b8b404)
+. [EE_GSAPP_Weather]
+  (https://code.earthengine.google.co.in/ff83f9b12c304f64d9633e53cb0276f0?hideCode=true)
 
 
-- **WATER 1** – Map the vertical dimension of the Earth's surface.
+<img width="1841" height="1149" alt="Screenshot 2026-09-24 at 12 55 58 PM" src="https://github.com/user-attachments/assets/fe3b5cde-4808-4436-af54-d388c0c4f361" />
 
-<img width="1841" height="1149" alt="Screenshot 2026-09-24 at 11 13 18 AM" src="https://github.com/user-attachments/assets/05fa24dd-08a0-4d7f-9943-872c2c8dbfdc" />
+
+- **WATER 1** – Water Classification
+
+
 <img width="1841" height="1149" alt="Screenshot 2026-09-24 at 11 05 45 AM" src="https://github.com/user-attachments/assets/a1fbe7c4-11f1-48e2-a33a-ff7d0ac1652c" />
 
 
 
-. [01RCA_DEM](https://code.earthengine.google.com/5f6656bd7cdb5e7c5ade88a4dc2df1fc)
+. [EE_W1](https://code.earthengine.google.co.in/7d2f3980686cac2f7b5429372a056f0d?hideCode=true)
 
-- **WATER 2** – Map the vertical dimension of the Earth's surface.
+- **WATER 2** – PCA (Principal Component Analysis) - Change Detection
 
 <img width="1841" height="1149" alt="Screenshot 2026-09-24 at 11 10 36 AM" src="https://github.com/user-attachments/assets/20a23b00-e674-481d-b038-3fc9cbbd3593" />
 
 
-. [01RCA_DEM](https://code.earthengine.google.com/5f6656bd7cdb5e7c5ade88a4dc2df1fc)
+. [EE_W2](https://code.earthengine.google.co.in/9cb856e8f2ddef607a9a6d42f0e143e5?hideCode=true)
 
-- **WATER 3** – Map the vertical dimension of the Earth's surface.
+- **WATER 3** – PCA - Spectral Bands
 
 
 <img width="1841" height="1149" alt="Screenshot 2026-09-24 at 11 13 18 AM" src="https://github.com/user-attachments/assets/f2c21f5b-fcb5-434d-b996-fc7989c04e7d" />
 
 
 
-. [01RCA_DEM](https://code.earthengine.google.com/5f6656bd7cdb5e7c5ade88a4dc2df1fc)
+. [EE_W3](https://code.earthengine.google.co.in/d02532ef3b55c4636e6ec5fd78f30bab?hideCode=true)
 
-- **WATER 4** – Map the vertical dimension of the Earth's surface.
+- **WATER 4** – Water Pollution
 
 <img width="1841" height="1149" alt="Screenshot 2026-09-24 at 11 15 02 AM" src="https://github.com/user-attachments/assets/f67bc8ee-bd7e-45ae-af3a-65041ebd69ce" />
 
 
 
 
-. [01RCA_DEM](https://code.earthengine.google.com/5f6656bd7cdb5e7c5ade88a4dc2df1fc)
+. [EE_W4](https://code.earthengine.google.co.in/3f0c8b6425d6c08fa85b46f0f0f5ffc3?hideCode=true)
 
-### 02.Spectrum and Indexes
-
-- **Light** – When light strikes an object, it can be absorbed, transmitted, or reflected. How this interaction happens and how it depends on the material properties of the surface?  
-- **Bands** – Combining bands - specific segments of the electromagnetic spectrum.
-<p align="center">
-<img width="478" height="475" alt="Screenshot 2025-10-22 at 9 56 22 PM" src="https://github.com/user-attachments/assets/a832263c-6eb1-4eb9-b8c9-baf2ca848618" />
-</p>
-
-. [02RCA_Spectrum Indexes01](https://code.earthengine.google.com/2cf269fbc6c0e8f4d630b04d0d154434) 
-   <br>
-   
-<img width="1615" height="1002" alt="Screenshot 2025-10-22 at 10 04 59 PM" src="https://github.com/user-attachments/assets/8026bea7-7844-439b-91d4-74583c3fe9f1" />
-
-
-. [02RCA_Spectrum Indexes02](https://code.earthengine.google.com/ff302159375cbe90f5e51e0aaceb0044) 
-
-
-
-
-## INDEXES 🛰️ 
-
-Each of the following terms describes how energy interacts with Earth’s surface and atmosphere, and connects to three core satellites driving Earth sensing: Landsat, Sentinel, and GOES.
-
-### REFLECTANCE
-<img width="1615" height="1002" alt="Screenshot 2025-10-22 at 10 28 42 PM" src="https://github.com/user-attachments/assets/f4dbf17d-3f8b-47bc-b3e6-5c41b435ae76" />
-(https://code.earthengine.google.com/0565361e27d68a6ecccb38f2c32f094b)
-
-
-### RADIANCE
-<img width="1615" height="1002" alt="Screenshot 2025-10-22 at 10 31 45 PM" src="https://github.com/user-attachments/assets/c1702116-a443-4e73-8b4d-07abb0f8e626" />
-(https://code.earthengine.google.com/6e4777d972ea284b73ebc54aeab5e137)
-
-### TRANSIMMTANCE
-<img width="1615" height="1002" alt="Screenshot 2025-10-22 at 10 32 49 PM" src="https://github.com/user-attachments/assets/c5b0cc9c-f613-48e2-bcaa-77fc6298349d" />
-(https://code.earthengine.google.com/c64c60abe61486d4600dd664b3fe8b15)
 
 
 
