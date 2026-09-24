@@ -36,6 +36,7 @@ The following code snippets are designed as **interactive examples** to be used 
 ** A (very) quick intro to Remote Sensing **
 - **SATELLITES** – Understanding how satellite images are composed of discrete units of information.  
 - **TIME MACHINE** – Exploring how satellites capture imagery at different time intervals and resolutions.
+- **SPECTRUM** – Exploring how satellites capture imagery at different time intervals and resolutions.
 - **WEATHER** –
 
 <img width="1573" height="1047" alt="Screenshot 2025-10-22 at 9 07 37 PM" src="https://github.com/user-attachments/assets/04986569-fc38-4621-a18f-10b83041fbac" />
@@ -45,14 +46,40 @@ The following code snippets are designed as **interactive examples** to be used 
 . [00RCA_Satellite Video](https://code.earthengine.google.com/4b3481d389ac9a33d0782331c8ec728b)
 . [00RCA_Satellite Geotiff](https://code.earthengine.google.com/7963f6355091857e9bf93a5d19b8b404)
 
-### 01.Elevation 
 
-- **Height** – Map the vertical dimension of the Earth's surface.
+- **WATER 1** – Map the vertical dimension of the Earth's surface.
 
-<img width="1573" height="1047" alt="Screenshot 2025-10-22 at 9 22 01 PM" src="https://github.com/user-attachments/assets/88d889e4-79ef-48ae-8bfb-944b6844c7a1" />
+<img width="1841" height="1149" alt="Screenshot 2026-09-24 at 11 13 18 AM" src="https://github.com/user-attachments/assets/05fa24dd-08a0-4d7f-9943-872c2c8dbfdc" />
+<img width="1841" height="1149" alt="Screenshot 2026-09-24 at 11 05 45 AM" src="https://github.com/user-attachments/assets/a1fbe7c4-11f1-48e2-a33a-ff7d0ac1652c" />
+
+
 
 . [01RCA_DEM](https://code.earthengine.google.com/5f6656bd7cdb5e7c5ade88a4dc2df1fc)
 
+- **WATER 2** – Map the vertical dimension of the Earth's surface.
+
+<img width="1841" height="1149" alt="Screenshot 2026-09-24 at 11 10 36 AM" src="https://github.com/user-attachments/assets/20a23b00-e674-481d-b038-3fc9cbbd3593" />
+
+
+. [01RCA_DEM](https://code.earthengine.google.com/5f6656bd7cdb5e7c5ade88a4dc2df1fc)
+
+- **WATER 3** – Map the vertical dimension of the Earth's surface.
+
+
+<img width="1841" height="1149" alt="Screenshot 2026-09-24 at 11 13 18 AM" src="https://github.com/user-attachments/assets/f2c21f5b-fcb5-434d-b996-fc7989c04e7d" />
+
+
+
+. [01RCA_DEM](https://code.earthengine.google.com/5f6656bd7cdb5e7c5ade88a4dc2df1fc)
+
+- **WATER 4** – Map the vertical dimension of the Earth's surface.
+
+<img width="1841" height="1149" alt="Screenshot 2026-09-24 at 11 15 02 AM" src="https://github.com/user-attachments/assets/f67bc8ee-bd7e-45ae-af3a-65041ebd69ce" />
+
+
+
+
+. [01RCA_DEM](https://code.earthengine.google.com/5f6656bd7cdb5e7c5ade88a4dc2df1fc)
 
 ### 02.Spectrum and Indexes
 
@@ -71,21 +98,7 @@ The following code snippets are designed as **interactive examples** to be used 
 . [02RCA_Spectrum Indexes02](https://code.earthengine.google.com/ff302159375cbe90f5e51e0aaceb0044) 
 
 
-### 03.Time Machine
 
-- **Time** – The continuous Landsat archive enables temporal analysis of Earth’s surface, providing multi-decadal observations for change detection.
-- **Memory** –  Each spectral band preserves radiometric information that allows reconstruction of past environmental and land surface conditions.
-
-  <img width="1615" height="1002" alt="Screenshot 2025-10-22 at 10 03 36 PM" src="https://github.com/user-attachments/assets/7690dfb4-8bb6-44d9-801a-8a66a0e6491a" />
-
-. [03RCA_Time Machine](https://code.earthengine.google.com/bc2bf69666d3cb0680074a9984da3d00) 
-
-
-  <br>
-    <br>
-      <br>
-        <br>
-        
 
 ## INDEXES 🛰️ 
 
