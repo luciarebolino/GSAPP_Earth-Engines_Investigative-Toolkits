@@ -1,9 +1,6 @@
-# ⟣ Earth Engines, Investigative Toolkits 
+# ⟣ Earth Engines - Investigative Toolkits 
 
 <img width="800" height="450" alt="bacgroundgithub-ezgif com-video-to-gif-converter (2)" src="https://github.com/user-attachments/assets/47425b8f-265d-46a5-979a-d2637a8af50b" />
-
-<img width="1459" alt="testtesttest" src="https://github.com/user-attachments/assets/992293e0-8e33-498e-ae08-f016236d2edc" />
-
 
 Investigative toolkits (IT) are experiments with remote sensing as both method and medium, using Google Earth Engine to explore the atmospheric and spectral layers of the Earth. Through coding and cloud-based data processing, we reframe satellite imagery as temporal and moving surfaces to interpret and translate environmental change.
 
@@ -36,9 +33,10 @@ The following code snippets are designed as **interactive examples** to be used 
 
 ### W3 - Workshop 1 - 23 September 2026 - WATER
 
-** Quick (and never exhausting) intro to Remote Sensing **
+** A (very) quick intro to Remote Sensing **
 - **SATELLITES** – Understanding how satellite images are composed of discrete units of information.  
 - **TIME MACHINE** – Exploring how satellites capture imagery at different time intervals and resolutions.
+- **WEATHER** –
 
 <img width="1573" height="1047" alt="Screenshot 2025-10-22 at 9 07 37 PM" src="https://github.com/user-attachments/assets/04986569-fc38-4621-a18f-10b83041fbac" />
 
