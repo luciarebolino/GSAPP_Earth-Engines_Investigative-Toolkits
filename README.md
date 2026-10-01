@@ -90,3 +90,14 @@ The following code snippets are designed as **interactive examples** to be used 
 
 
 
+
+
+### W4 - Workshop 2 - 1 October 2026 - LAND
+
+- **NDVI** – Agriculture Analysis (Normalized Difference Vegetation Index)
+
+. [EE_NDVI](https://code.earthengine.google.com/2b053abd7b747d515503098edc761723?hideCode=true)
+
+- **DEM** – Digital Elevation Model
+
+. [EE_DEM](https://code.earthengine.google.com/f12376c082d6e6adcc50dfaf7d83348d?hideCode=true)
