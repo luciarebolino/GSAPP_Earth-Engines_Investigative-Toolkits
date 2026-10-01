@@ -92,12 +92,18 @@ The following code snippets are designed as **interactive examples** to be used 
 
 
 
-### W4 - Workshop 2 - 1 October 2026 - LAND
+### W4 - Workshop 2 - 1 October 2026 - SOIL
 
 - **NDVI** – Agriculture Analysis (Normalized Difference Vegetation Index)
+
+<img width="1728" height="1117" alt="Screenshot 2026-10-01 at 11 34 04 AM" src="https://github.com/user-attachments/assets/e7a1f219-7dd3-4e3a-8922-8252aa778b1a" />
+
+
 
 . [EE_NDVI](https://code.earthengine.google.com/2b053abd7b747d515503098edc761723?hideCode=true)
 
 - **DEM** – Digital Elevation Model
+
+<img width="1728" height="1117" alt="Screenshot 2026-10-01 at 10 47 10 AM" src="https://github.com/user-attachments/assets/c1649d0f-a1fb-46a7-920e-a016652a1def" />
 
 . [EE_DEM](https://code.earthengine.google.com/f12376c082d6e6adcc50dfaf7d83348d?hideCode=true)
